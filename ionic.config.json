@@ -1,0 +1,7 @@
+{
+  "name": "lab-ncmb-with-capacitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
