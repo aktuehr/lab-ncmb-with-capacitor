@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "jp.tonaribito.lab.ncmb.with.capacitor",
   "appName": "lab-ncmb-with-capacitor",
   "bundledWebRuntime": false,
   "npmClient": "npm",
