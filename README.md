@@ -1,0 +1,2 @@
+# lab-ncmb-with-capacitor
+NCMBからのプッシュ通知をcapacitorのハイブリッドアプリでどう実現するかの実験
