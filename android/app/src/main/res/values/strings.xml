@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">lab-ncmb-with-capacitor</string>
+    <string name="title_activity_main">lab-ncmb-with-capacitor</string>
+    <string name="package_name">jp.tonaribito.lab.ncmb.with.capacitor</string>
+    <string name="custom_url_scheme">jp.tonaribito.lab.ncmb.with.capacitor</string>
+</resources>
