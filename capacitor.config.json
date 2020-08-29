@@ -1,6 +1,6 @@
 {
   "appId": "jp.tonaribito.lab.ncmb.with.capacitor",
-  "appName": "lab-ncmb-with-capacitor",
+  "appName": "lab-ncmb-with-ionic-capacitor",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
